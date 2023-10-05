@@ -21,9 +21,9 @@
 <br/>
 
 <h3>
-  👨‍💻 Check my 
+  👨‍💻 For more details, check my 
   <a href="https://alishkeir.netlify.app">portfolio</a>
-  for more details
+  
 </h3>
 <br/>
 

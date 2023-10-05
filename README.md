@@ -55,7 +55,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2 style="border:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/> </h2>
+  <h2 style="border-bottom:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/> </h2>
   <br>
 
   <a href="https://www.udemy.com/user/ali-shkeir-4/" target="_blank">

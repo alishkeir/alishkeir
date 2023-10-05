@@ -161,8 +161,8 @@
 <div align="center">
 <h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+  <!-- <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" /> -->
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="100%" alt="stats graph" />
 </div> <br>
 
 <div align="center">

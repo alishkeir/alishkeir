@@ -22,6 +22,7 @@
 
 <p style="text-align:left;font-size:18px">🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine 4 & 5</b></p>
 <br/>
+<br/>
 
 <p style="text-align:left;font-size:18px">
   👨‍💻 Check my 
@@ -29,16 +30,19 @@
   for more details
 </p>
 <br/>
+<br/>
 
 <p style="text-align:left;font-size:18px">
   💻 More of my works on
   <a href="https://codepen.io/alishkeir">CodePen</a>
 </p>
 <br/>
+<br/>
 
 <p style="text-align:left;font-size:18px">
   💬 Ask me about <b>Game</b> and <b>Web</b> Dev
 </p>
+<br/>
 <br/>
 
 <p style="text-align:left;font-size:18px">
@@ -46,13 +50,12 @@
   <a href="mailto: alishkeir_@hotmail.com">alishkeir_@hotmail.com</a>
 </p>
 <br/>
+<br/>
 
 <p style="text-align:left;font-size:18px">
   📄 Know about my experiences at
   <a href="https://www.linkedin.com/in/alishkeir/">LinkedIn</a>
 </p>
-<br/>
-<br/>
 <br/>
 <br/>
 

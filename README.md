@@ -208,7 +208,7 @@
 
 <div align="center">
 <h2 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
-  <a href="https://www.facebook.com/ali.shkeir.18062" target="_blank">
+  <a href="https://www.facebook.com/al1shkeir" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>
   &nbsp

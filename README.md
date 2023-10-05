@@ -55,7 +55,13 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
+
+<svg fill="none" viewBox="0 0 100% 100" width="100%" height="100">
+ <foreignObject width="100%" height="100%">
   <h2 style="border-bottom:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/> </h2>
+ </foreignObject>
+</svg>
+
   <br>
 
   <a href="https://www.udemy.com/user/ali-shkeir-4/" target="_blank">

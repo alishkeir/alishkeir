@@ -1,10 +1,10 @@
 <img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
-<img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;" width="100%"/>
+<img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;" width="100%"/>
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello!+It's+Ali%2C+Welcome+to+my+GitHub+Profile!" alt="Hello!+It's+Ali%2C+Welcome+to+my+GitHub+Profile!" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-<img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;" width="100%"/>
+<img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;" width="100%"/>
 
 <div align="center">
   <p><b>Profile Views</b></p>
@@ -55,7 +55,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2 style="border-bottom:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/> </h2>
+  <h2 style="border-bottom:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/> </h2>
   <br>
 
   <a href="https://www.udemy.com/user/ali-shkeir-4/" target="_blank">
@@ -89,7 +89,7 @@
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
-  <h2 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/></h2>
+  <h2 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
   <br/>
   
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=alishkeir&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
@@ -159,7 +159,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/></h2><br>
+<h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
@@ -177,7 +177,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
- <h2 align="center"  style="border:none">👨‍💻 Projects <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/></h2><br>
+ <h2 align="center"  style="border:none">👨‍💻 Projects <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
   <a href="https://github.com/alishkeir/UE_VRFruitNinja" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_VRFruitNinja" width="49%" alt="UE VR Fruit Ninja"/>
   </a>
@@ -207,7 +207,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<h2 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;"/></h2>
+<h2 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
   <a href="https://www.facebook.com/ali.shkeir.18062" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>

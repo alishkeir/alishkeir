@@ -15,7 +15,7 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<div style="text-align:center;width:100%;font-size:21px" align="center"> A passionate <img src="./assets/animated-flame-01.gif" height="24px"/>Full-Stack Developer<img src="./assets/animated-flame-01.gif" height="24px"/> and <img src="./assets/animated-flame-01.gif" height="24px"/>Gameplay Programmer<img src="./assets/animated-flame-01.gif" height="24px"/> </div>
+<p style="text-align:center;width:100%;font-size:21px" align="center"> A passionate <img src="./assets/animated-flame-01.gif" height="24px"/>Full-Stack Developer<img src="./assets/animated-flame-01.gif" height="24px"/> and <img src="./assets/animated-flame-01.gif" height="24px"/>Gameplay Programmer<img src="./assets/animated-flame-01.gif" height="24px"/> </p>
 
 <br/>
 <br/>

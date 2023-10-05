@@ -17,9 +17,8 @@
 
 <h2 align="center"> A passionate <img src="./assets/animated-flame-01.gif" height="24px"/>Full-Stack Developer<img src="./assets/animated-flame-01.gif" height="24px"/> and <img src="./assets/animated-flame-01.gif" height="24px"/>Gameplay Programmer<img src="./assets/animated-flame-01.gif" height="24px"/> </h2>
 
-<h3>🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine 4 & 5</b></h3>
+<h3>🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine</b></h3>
 <br/>
-
 <h3>
   👨‍💻 For more details, check my 
   <a href="https://alishkeir.netlify.app">portfolio</a>

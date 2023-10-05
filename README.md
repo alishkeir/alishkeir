@@ -15,49 +15,39 @@
 
 <img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
 
-<p style="text-align:center;width:100%;font-size:21px" align="center"> A passionate <img src="./assets/animated-flame-01.gif" height="24px"/>Full-Stack Developer<img src="./assets/animated-flame-01.gif" height="24px"/> and <img src="./assets/animated-flame-01.gif" height="24px"/>Gameplay Programmer<img src="./assets/animated-flame-01.gif" height="24px"/> </p>
+<h2 align="center"> A passionate <img src="./assets/animated-flame-01.gif" height="24px"/>Full-Stack Developer<img src="./assets/animated-flame-01.gif" height="24px"/> and <img src="./assets/animated-flame-01.gif" height="24px"/>Gameplay Programmer<img src="./assets/animated-flame-01.gif" height="24px"/> </h2>
 
-<br/>
-<br/>
-
-<p style="text-align:left;font-size:18px">🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine 4 & 5</b></p>
-<br/>
+<h3>🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine 4 & 5</b></h3>
 <br/>
 
-<p style="text-align:left;font-size:18px">
+<h3>
   👨‍💻 Check my 
   <a href="https://alishkeir.netlify.app">portfolio</a>
   for more details
-</p>
-<br/>
+</h3>
 <br/>
 
-<p style="text-align:left;font-size:18px">
+<h3>
   💻 More of my works on
   <a href="https://codepen.io/alishkeir">CodePen</a>
-</p>
-<br/>
+</h3>
 <br/>
 
-<p style="text-align:left;font-size:18px">
+<h3>
   💬 Ask me about <b>Game</b> and <b>Web</b> Dev
-</p>
-<br/>
+</h3>
 <br/>
 
-<p style="text-align:left;font-size:18px">
+<h3>
   📫 Reach me at
   <a href="mailto: alishkeir_@hotmail.com">alishkeir_@hotmail.com</a>
-</p>
-<br/>
+</h3>
 <br/>
 
-<p style="text-align:left;font-size:18px">
+<h3>
   📄 Know about my experiences at
   <a href="https://www.linkedin.com/in/alishkeir/">LinkedIn</a>
-</p>
-<br/>
-<br/>
+</h3>
 
 <h2></h2>
 
@@ -65,7 +55,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <b style="text-align:center;font-size:21px"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </b>
+  <h2 style="border:none"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
   <br>
 
   <a href="https://www.udemy.com/user/ali-shkeir-4/" target="_blank">
@@ -87,20 +77,19 @@
     <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
   </a>
 
-</div>
+</div></br>
 
 <h2></h2>
 
 <div align="center">
   <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
 </div>
-</br>
+
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
-  
-  <b style="text-align:center;font-size:21px"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></b>
+  <h2 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
   <br/>
   
   <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=alishkeir&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
@@ -112,57 +101,56 @@
   <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Programming Languages</strong></p>
+  <h3> <strong>Programming Languages</strong></h3>
   <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,php" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Game Development</strong></p>
+  <h3> <strong>Game Development</strong></h3>
   <img src="https://skillicons.dev/icons?i=unrealengine,unity" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Frontend Development</strong></p>
+  <h3> <strong>Frontend Development</strong></h3>
   <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,react,vue,angular,svelte,electron,redux,tailwind,materialui,webpack,gulp" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Backend Development</strong></p>
+  <h3> <strong>Backend Development</strong></h3>
   <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>CMS</strong></p>
+  <h3> <strong>CMS</strong></h3>
   <img src="https://skillicons.dev/icons?i=wordpress" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Databases</strong></p>
+  <h3> <strong>Databases</strong></h3>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Data Visualization</strong></p>
+  <h3> <strong>Data Visualization</strong></h3>
   <img src="https://skillicons.dev/icons?i=d3" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Devops</strong></p>
+  <h3> <strong>Devops</strong></h3>
   <img src="https://skillicons.dev/icons?i=docker,gcp,azure" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Backend as a Service(BaaS)</strong></p>
+  <h3> <strong>Backend as a Service(BaaS)</strong></h3>
   <img src="https://skillicons.dev/icons?i=firebase,heroku,aws" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Testing</strong></p>
+  <h3> <strong>Testing</strong></h3>
   <img src="https://skillicons.dev/icons?i=jest" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Tools</strong></p>
+  <h3> <strong>Tools</strong></h3>
   <img src="https://skillicons.dev/icons?i=gulp,webpack" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Software</strong></p>
+  <h3> <strong>Software</strong></h3>
   <img src="https://skillicons.dev/icons?i=xd,figma,postman,vscode,visualstudio" alt="skills logos" /> <br>
   <h2></h2>
 
-  <p style="text-align:center;font-size:21px"> <strong>Other</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino" alt="skills logos" /> 
-  <br>
+  <h3> <strong>Other</strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino" alt="skills logos" /> <br>
 </div>
 
 <h2></h2>
@@ -171,16 +159,11 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<b style="text-align:center;font-size:21px;"> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></b><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2>
-  
-  <br>
-
-  <img src="https://streak-stats.demolab.com/?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
+<h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div>
-
- <br>
+</div> <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishkeir&custom_title=Ali%20Shkeir's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Ali's Github Activity Graph" width="100%">
@@ -194,7 +177,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
- <b style="text-align:center;font-size:21px">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></b><br>
+ <h2 align="center"  style="border:none">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
   <a href="https://github.com/alishkeir/UE_VRFruitNinja" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_VRFruitNinja" width="49%" alt="UE VR Fruit Ninja"/>
   </a>
@@ -224,7 +207,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<b style="text-align:center;font-size:21px">✉️ Contact <img src="./assets/borderseparator.gif"/></b>
+<h2 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
   <a href="https://www.facebook.com/ali.shkeir.18062" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>

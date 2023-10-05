@@ -52,6 +52,10 @@
   <a href="https://www.linkedin.com/in/alishkeir/">LinkedIn</a>
 </p>
 <br/>
+<br/>
+<br/>
+<br/>
+
 <h2></h2>
 
 <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
@@ -154,7 +158,8 @@
   <h2></h2>
 
   <p style="text-align:center;font-size:21px"> <strong>Other</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino" alt="skills logos" /> 
+  <br>
 </div>
 
 <h2></h2>
@@ -164,10 +169,15 @@
 
 <div align="center">
 <b style="text-align:center;font-size:21px;"> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></b><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2>
+  
+  <br>
+
+  <img src="https://streak-stats.demolab.com/?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
   <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
-</div> <br>
+</div>
+
+ <br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishkeir&custom_title=Ali%20Shkeir's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Ali's Github Activity Graph" width="100%">

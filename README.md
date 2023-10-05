@@ -1,1 +1,231 @@
-<h1 align="center">Hi 👋, I'm Ali Shkeir</h1><h3 align="center"> A passionate Full-Stack Developer and Gameplay Programmer</h3><img src="https://komarev.com/ghpvc/?username=alishkeir&label=Profile%20views&color=0e75b6&style=flat" alt="alishkeir"/><img src="https://github-profile-trophy.vercel.app/?username=alishkeir" alt="alishkeir"/><a href="https://twitter.com/alishkeir_" target="blank" ><img src="https://img.shields.io/twitter/follow/alishkeir_?logo=twitter&style=for-the-badge" alt="alishkeir_"/></a><h4>🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine 4 & 5</b></h4><h4> 👨‍💻 All of my projects are available at <a href="https://alishkeir.netlify.app">My Portfolio</a></h4><h4> 💬 Ask me about <b>JavaScript</b>, <b>React</b>, <b>Angular</b>, <b>jQuery</b> and <b>Laravel</b></h4><h4> 📫 Reach me at <a href="mailto: alishkeir_@hotmail.com">alishkeir_@hotmail.com</a></h4><h4> 📄 Know about my experiences at <a href="https://www.linkedin.com/in/alishkeir/">LinkedIn</a></h4><h2 align="left">Connect with me:</h2><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a href="https://codepen.io/alishkeir" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alishkeir" height="30" width="40" style="margin-right: 1rem"/></a> <a href="https://twitter.com/alishkeir_" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alishkeir_" height="30" width="40" style="margin-right: 1rem"/></a> <a href="https://linkedin.com/in/alishkeir" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alishkeir" height="30" width="40" style="margin-right: 1rem"/></a> <a href="https://fb.com/alishkeirr" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alishkeirr" height="30" width="40" style="margin-right: 1rem"/></a> <a href="https://instagram.com/alishkeir_" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alishkeir_" height="30" width="40" style="margin-right: 1rem"/></a></div><hr style=" height: 1px; background-color: #21262d; margin-top: 1rem; margin-bottom: 2rem; "/><h2 align="left">Languages and Tools:</h2><h3>Programming Languages</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://www.cprogramming.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.php.net" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a></div><h3>Frontend Development</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://vuejs.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://reactjs.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://svelte.dev" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://angular.io" target="_blank" rel="noreferrer" > <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://getbootstrap.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://gulpjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://sass-lang.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://redux.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://webpack.js.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://tailwindcss.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://materializecss.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://bulma.io/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a></div><h3>Backend Development</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://nodejs.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://expressjs.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://graphql.org" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.nginx.com" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a></div><h3>Mobile App Development</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://reactnative.dev/" target="_blank" rel="noreferrer" > <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a></div><h3>Database</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://www.mongodb.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://mariadb.org/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.sqlite.org/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a></div><h3>Data Visualization</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://www.chartjs.org" target="_blank" rel="noreferrer" > <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a></div><h3>Devops</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://www.docker.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://cloud.google.com" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a></div><h3>Backend as a Service(BaaS)</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://firebase.google.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://heroku.com" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a></div><h3>Frameworks</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://www.electronjs.org" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://laravel.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://codeigniter.com" target="_blank" rel="noreferrer" > <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a></div><h3>Testing</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://jestjs.io" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://mochajs.org" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://jasmine.github.io/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a></div><h3>Software</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer" > <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.figma.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://postman.com" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></div><h3>Game Engines</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://unrealengine.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a></div><h3>Other</h3><div style="display: flex; margin-bottom: 2rem; flex-wrap: wrap"> <a style="margin-right: 1rem" href="https://git-scm.com/" target="_blank" rel="noreferrer" > <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.linux.org/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a style="margin-right: 1rem" href="https://www.arduino.cc/" target="_blank" rel="noreferrer" > <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></div><hr style=" height: 1px; background-color: #21262d; margin-top: 1rem; margin-bottom: 2rem; "/><div style=" display: flex; flex-wrap: wrap; margin-top: 2rem; margin-bottom: 2rem; "> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alishkeir&count_private=true&show_icons=true&locale=en&layout=compact" alt="alishkeir"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=alishkeir&show_icons=true&locale=en" alt="alishkeir"/></div><br/><div> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alishkeir&" alt="alishkeir"/></div>
+<img src="./assets/pixel-night-banner.gif" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/borderseparator.gif" width="100%"/>
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello!+It's+Ali%2C+Welcome+to+my+GitHub+Profile!" alt="Hello!+It's+Ali%2C+Welcome+to+my+GitHub+Profile!" width="90%" align="middle"/>
+  <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
+</div>
+<img src="./assets/borderseparator.gif" width="100%"/>
+
+<div align="center">
+  <p><b>Profile Views</b></p>
+  <img src="https://profile-counter.glitch.me/alishkeir/count.svg" />
+</div>
+
+<h2></h2>
+
+<img align="right" src="./assets/vaporwave-aesthetic.gif" height="560px" alt="pixel city image">
+
+<h2 align="center"> A passionate <img src="./assets/animated-flame-01.gif" height="24px"/>Full-Stack Developer<img src="./assets/animated-flame-01.gif" height="24px"/> and <img src="./assets/animated-flame-01.gif" height="24px"/>Gameplay Programmer<img src="./assets/animated-flame-01.gif" height="24px"/> </h2>
+
+<h3>🌱 I’m currently learning <b>C++</b> and <b>Unreal Engine 4 & 5</b></h3>
+<br/>
+
+<h3>
+  👨‍💻 Check my 
+  <a href="https://alishkeir.netlify.app">portfolio</a>
+  for more details
+</h3>
+<br/>
+
+<h3>
+  💻 More of my works on
+  <a href="https://codepen.io/alishkeir">CodePen</a>
+</h3>
+<br/>
+
+<h3>
+  💬 Ask me about <b>Game</b> and <b>Web</b> Dev
+</h3>
+<br/>
+
+<h3>
+  📫 Reach me at
+  <a href="mailto: alishkeir_@hotmail.com">alishkeir_@hotmail.com</a>
+</h3>
+<br/>
+
+<h3>
+  📄 Know about my experiences at
+  <a href="https://www.linkedin.com/in/alishkeir/">LinkedIn</a>
+</h3>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+  <h2 style="border:none"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif"/> </h2>
+  <br>
+
+  <a href="https://www.udemy.com/user/ali-shkeir-4/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+  </a>
+    <a href="https://www.coursera.org/user/a43f61bd5e040786f0fbb4f5ca93ae4c" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/alishkeir" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/alishkeir/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+  <a href="https://www.codewars.com/users/alishkeir" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white"/>
+  </a>
+  <a href="https://www.sololearn.com/profile/24011242/" target="_blank">
+    <img src="https://img.shields.io/badge/Sololearn-f20057?style=for-the-badge&logoColor=white"/>
+  </a>
+
+</div></br>
+
+<h2></h2>
+
+<div align="center">
+  <img src="./assets/pixel-neon.gif" alt="pixel guy using computer" width="100%" /><br>
+</div>
+
+<div align="center">
+  <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+  <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+  
+  <h2 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2>
+  <br/>
+  
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=alishkeir&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
+  <br>
+
+  <a src="https://wakatime.com/@alishkeir" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=alishkeir&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
+  </a>
+  <br>
+  <h2></h2>
+
+  <h3> <strong>Programming Languages</strong></h3>
+  <img src="https://skillicons.dev/icons?i=c,cpp,ts,js,php" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Game Development</strong></h3>
+  <img src="https://skillicons.dev/icons?i=unrealengine,unity" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Frontend Development</strong></h3>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,bootstrap,react,vue,angular,svelte,electron,redux,tailwind,materialui,webpack,gulp" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Backend Development</strong></h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,graphql" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>CMS</strong></h3>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Databases</strong></h3>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,sqlite" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Data Visualization</strong></h3>
+  <img src="https://skillicons.dev/icons?i=d3" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Devops</strong></h3>
+  <img src="https://skillicons.dev/icons?i=docker,gcp,azure" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Backend as a Service(BaaS)</strong></h3>
+  <img src="https://skillicons.dev/icons?i=firebase,heroku,aws" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Testing</strong></h3>
+  <img src="https://skillicons.dev/icons?i=jest" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Tools</strong></h3>
+  <img src="https://skillicons.dev/icons?i=gulp,webpack" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Software</strong></h3>
+  <img src="https://skillicons.dev/icons?i=xd,figma,postman,vscode,visualstudio" alt="skills logos" /> <br>
+  <h2></h2>
+
+  <h3> <strong>Other</strong></h3>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,arduino" alt="skills logos" /> <br>
+</div>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+<h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif"/></h2><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
+  <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="49%" alt="stats graph" />
+</div> <br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alishkeir&custom_title=Ali%20Shkeir's%20GitHub%20Activity%20Graph&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="Ali's Github Activity Graph" width="100%">
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+ <h2 align="center"  style="border:none">👨‍💻 Projects <img src="./assets/borderseparator.gif"/></h2><br>
+  <a href="https://github.com/alishkeir/UE_VRFruitNinja" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_VRFruitNinja" width="49%" alt="UE VR Fruit Ninja"/>
+  </a>
+  <a href="https://github.com/alishkeir/UE_CastleHunt" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_CastleHunt" width="49%" alt="UE Castle Hunt"/>
+  </a>
+  <a href="https://github.com/alishkeir/UE_RollingBall" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_RollingBall" width="49%" alt="UE Rolling Ball"/>
+  </a>
+  <a href="https://github.com/alishkeir/UE_3DBrickBreaker" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_3DBrickBreaker" width="49%" alt="UE 3D Brick Breaker"/>
+  </a>
+  <a href="https://github.com/alishkeir/UE_BrickBreaker" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_BrickBreaker" width="49%" alt="UE Brick Breaker"/>
+  </a>
+  <a href="https://github.com/alishkeir/UE_VRCrossbow" target="_blank">
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_VRCrossbow" width="49%" alt="UE VR Crossbow"/>
+  </a>
+
+</div>
+
+</br>
+
+<h2></h2>
+
+<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+
+<div align="center">
+<h2 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif"/></h2>
+  <a href="https://www.facebook.com/ali.shkeir.18062" target="_blank">
+    <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
+  </a>
+  &nbsp
+  <a href="https://twitter.com/alishkeir_" target="_blank">
+    <img src="./assets/logos/neon-twitter.png" width="48px" alt="Twitter"/>
+  </a>
+  &nbsp
+  <a href="https://www.instagram.com/alishkeir_/" target="_blank">
+    <img src="./assets/logos/neon-instagram.png" width="48px" alt="Instagram"/>
+  </a>
+  &nbsp
+  <a href="https://www.linkedin.com/in/alishkeir/" target="_blank">
+    <img src="./assets/logos/neon-linkedin.png" width="48px" alt="LinkedIn"/>
+  </a>
+  &nbsp
+  <a href="https://discord.com/users/621917258633183232" target="_blank">
+    <img src="./assets/logos/neon-discord.png" width="48px" alt="Discord"/>
+  </a>
+</a>
+</div>

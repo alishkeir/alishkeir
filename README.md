@@ -55,7 +55,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-  <h2 style="border-bottom:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/> </h2>
+  <h3 style="border-bottom:none!important"> <strong> 📚 Education </strong> <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/> </h2>
   <br>
 
   <a href="https://www.udemy.com/user/ali-shkeir-4/" target="_blank">
@@ -89,7 +89,7 @@
   <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
   <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
   
-  <h2 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
+  <h3 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
   <br/>
   <a src="https://wakatime.com/@alishkeir" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=alishkeir&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
@@ -155,7 +155,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
+<h3 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
   <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
   <!-- <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="100%" alt="stats graph" /> -->
@@ -203,7 +203,7 @@
 <img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
 
 <div align="center">
-<h2 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
+<h3 align="center"  style="border:none">✉️ Contact <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
   <a href="https://www.facebook.com/al1shkeir" target="_blank">
     <img src="./assets/logos/neon-facebook.png" width="48px" alt="Facebook"/>
   </a>

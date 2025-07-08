@@ -91,10 +91,6 @@
   
   <h2 style="border:none"> <strong> ⚙️ Technologies and Skills </strong><img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2>
   <br/>
-  
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=alishkeir&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
-  <br>
-
   <a src="https://wakatime.com/@alishkeir" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/wakatime?username=alishkeir&theme=radical&layout=compact" alt="Wakatime Coding Time" width="540px">
   </a>
@@ -161,8 +157,8 @@
 <div align="center">
 <h2 style="border:none"> 🏆 My Github Stats <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
   <img src="https://github-profile-trophy.vercel.app/?username=alishkeir&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle" /> <br><h2></h2><br>
-  <!-- <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" /> -->
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="100%" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=alishkeir&theme=radical" width="49%" alt="streaks graph" />
+  <!-- <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=alishkeir&theme=radical&show_icons=true&count_private=true" width="100%" alt="stats graph" /> -->
 </div> <br>
 
 <div align="center">
@@ -171,12 +167,12 @@
 
 </br>
 
-<h2></h2>
+<!-- <h2></h2> -->
 
-<img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
-<img src="./assets/animated-flame-01.gif" width="16px" align="right"/>
+<!-- <img src="./assets/animated-flame-01.gif" width="16px" align="left"/>
+<img src="./assets/animated-flame-01.gif" width="16px" align="right"/> -->
 
-<div align="center">
+<!-- <div align="center">
  <h2 align="center"  style="border:none">👨‍💻 Projects <img src="./assets/borderseparator.gif" style="max-width: 100%;display: block!important;margin-top: 15px;margin-bottom: -34px;"/></h2><br>
   <a href="https://github.com/alishkeir/UE_VRFruitNinja" target="_blank">
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_VRFruitNinja" width="49%" alt="UE VR Fruit Ninja"/>
@@ -197,7 +193,7 @@
     <img src="https://github-readme-stats-godkingjay.vercel.app/api/pin/?username=alishkeir&theme=radical&repo=UE_VRCrossbow" width="49%" alt="UE VR Crossbow"/>
   </a>
 
-</div>
+</div> -->
 
 </br>
 
